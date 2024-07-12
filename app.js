@@ -1,7 +1,5 @@
 import { Console as log } from "./utils.js";
 
-// Usage example
-log.showLogs = true;  // Set to false to disable logging
 
 // Test the logging behavior
 log.info("This is a normal log message from Console.log.");

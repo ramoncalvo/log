@@ -49,3 +49,7 @@ export class Console {
         }
     }
 }
+
+
+// Usage example
+Console.showLogs = true;  // Set to false to disable logging
